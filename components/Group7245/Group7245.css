@@ -1,0 +1,53 @@
+.group-7245 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 16px;
+  min-width: 334px;
+}
+
+.overlap-group2 {
+  height: 53px;
+  position: relative;
+  width: 332px;
+}
+
+.rectangle-2396-1 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 332px;
+}
+
+.name {
+  left: 15px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 24px;
+  width: 73px;
+}
+
+.overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6117865cd41d6ddb6b37c051/releases/61613116db61f69a919554d8/img/rectangle-116-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  left: 11px;
+  min-width: 82px;
+  padding: 0 4.4px;
+  position: absolute;
+  top: 0;
+}
+
+.full-name {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 73px;
+}
+

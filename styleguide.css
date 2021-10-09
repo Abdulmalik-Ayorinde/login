@@ -1,0 +1,79 @@
+:root { 
+  --bossanova: #4d1d4d;
+  --log-cabin: #212121;
+  --mist-gray: #c4c4c4;
+  --onyx: #3a3a3a;
+  --red-ribbon: #ee0423;
+  --sonic-silver-2: #757575;
+  --white: #ffffff;
+ 
+  --font-size-m: 12px;
+  --font-size-s: 10px;
+  --font-size-xs: 16px;
+  --font-size-xxs: 14px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.montserrat-normal-onyx-12px {
+  color: var(--onyx);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-medium-sonic-silver-14px {
+  color: var(--sonic-silver-2);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-light-log-cabin-16px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.montserrat-medium-red-ribbon-12px {
+  color: var(--red-ribbon);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-medium-onyx-16px {
+  color: var(--onyx);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-medium-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-medium-log-cabin-14px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-red-ribbon {
+  border: 1px solid var(--red-ribbon);
+}
+
+.border-1px-mist-gray {
+  border: 1px solid var(--mist-gray);
+}

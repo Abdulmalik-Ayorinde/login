@@ -1,0 +1,155 @@
+.regsiter {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.overlap-group5 {
+  height: 317px;
+  margin-left: 0.23px;
+  margin-top: -49px;
+  position: relative;
+  width: 375px;
+}
+
+.rectangle-2394 {
+  height: 1px;
+  left: 187px;
+  position: absolute;
+  top: 142px;
+  width: 1px;
+}
+
+.mask-group-1 {
+  height: 317px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.text-1 {
+  letter-spacing: 0;
+  margin-left: 23px;
+  margin-top: 16px;
+  min-height: 20px;
+  width: 236px;
+}
+
+.place {
+  letter-spacing: 0;
+  margin-left: 23px;
+  margin-top: 16px;
+  min-height: 20px;
+}
+
+.overlap-group6 {
+  align-self: center;
+  height: 53px;
+  margin-left: 1.0px;
+  margin-top: 14px;
+  position: relative;
+  width: 332px;
+}
+
+.overlap-group3 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 332px;
+}
+
+.rectangle-2396 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 332px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6117865cd41d6ddb6b37c051/releases/61613116db61f69a919554d8/img/rectangle-116-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  left: 12px;
+  min-width: 76px;
+  padding: 0 3px;
+  position: absolute;
+  top: 0;
+}
+
+.password {
+  letter-spacing: 0;
+  min-height: 17px;
+}
+
+.frame {
+  height: 1px;
+  left: 314px;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.group-8082 {
+  align-items: center;
+  display: flex;
+  height: 15px;
+  left: 15px;
+  min-width: 307px;
+  position: absolute;
+  top: 25px;
+}
+
+.devid1234 {
+  letter-spacing: 0;
+  min-height: 15px;
+  min-width: 59px;
+}
+
+.frame-1 {
+  cursor: pointer;
+  height: 1px;
+  margin-bottom: 1.0px;
+  margin-left: 239px;
+  width: 1px;
+}
+
+.group-8036 {
+  align-items: flex-start;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  margin-right: 19px;
+  margin-top: 26px;
+  min-width: 90px;
+}
+
+.overlap-group4 {
+  align-items: center;
+  background-color: var(--bossanova);
+  border-radius: 14px;
+  box-shadow: 0px 4px 34px #00000014;
+  display: flex;
+  height: 28px;
+  min-width: 88px;
+  padding: 0 18px;
+}
+
+.place-1 {
+  letter-spacing: 0;
+  min-height: 12px;
+  min-width: 51px;
+}
+
